@@ -5,9 +5,9 @@
 }
 
 html, body {
-    background: white;
+    background: #2A0944;
     margin: 20px;
-    color: #3e4144;
+    color: #FEC260;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -16,7 +16,7 @@ dd {
 }
 
 button {
-    background-color: black;
+    background-color: #A12568;
     border-radius: 5px;
     border: 0px;
     color: white;
@@ -40,6 +40,11 @@ button:focus{
 
 .row {
     display: flex;
+    background-color: #3B185F;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: 1px solid #FEC260;
 }
 
 .col {
